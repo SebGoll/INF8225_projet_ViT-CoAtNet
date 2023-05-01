@@ -8,5 +8,5 @@ Les resultats brut des runs peut se retrouver sur notre [wandb](https://wandb.ai
 
 ## Architecture du repo
 
-[coatnet.py](coatnet.py) est le fichier comportant l'emplementation du CoAtNet
-[INF8225_Projet.ipynb](INF8225_Projet.ipynb) est le notebook permettant de tester les modèles
+- [coatnet.py](coatnet.py) est le fichier comportant l'emplementation du CoAtNet
+- [INF8225_Projet.ipynb](INF8225_Projet.ipynb) est le notebook permettant de tester les modèles
